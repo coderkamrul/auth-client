@@ -1,11 +1,11 @@
 import React from 'react'
-import logo from "../assets/logo.svg"
+
 
 const Footer = () => {
   return (
     <footer className="footer p-10 bg-red-200/30 text-base">
   <aside>
-    <img src={logo}/>
+    <img src="https://food-hunt-client.vercel.app/assets/Logo-42pbGq7y.svg"/>
   </aside> 
   <nav>
     <h6 className="footer-title text-xl text-[#f54748]">Services</h6> 
